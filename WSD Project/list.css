@@ -1,0 +1,19 @@
+body	{background-image:url("bg4.jpg");
+	background-size:auto;
+	}
+
+table	{
+		background-color:white;
+	}
+.head1	{
+		font-size:22px;
+		text-align:center;
+		}
+
+.head2	{
+		color:#00e6e6;
+		text-align:center;
+		text-decoration:underline overline;
+		font-sixe:38px;
+
+	}
